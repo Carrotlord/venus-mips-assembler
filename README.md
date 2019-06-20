@@ -1,4 +1,4 @@
-# Venus MIP Assembler
+# Venus MIPS Assembler
 
 This program will convert 32-bit MIPS assembly source code into compiled binary files. Other features such as displaying the hexadecimal values from a file are included.
 
